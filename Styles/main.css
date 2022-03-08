@@ -1,0 +1,22 @@
+h1 {
+	color: seagreen
+}
+h2 {
+	background-color: white;
+}
+
+body {
+        Color: black;
+    }
+    .header {
+        Color: seagreen;
+    }
+    .Work {
+        Color: seagreen;
+    }
+    .img {
+        Width: 500;
+    }
+    .article {
+        font-family: sans-serif, "times new roman";
+    }
